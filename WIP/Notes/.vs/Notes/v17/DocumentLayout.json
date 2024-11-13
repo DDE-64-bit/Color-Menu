@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donal\\source\\repos\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87ECED-10AE-4533-9EF8-44DF3222B587}|Notes\\Notes.csproj|c:\\users\\donal\\source\\repos\\notes\\notes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87ECED-10AE-4533-9EF8-44DF3222B587}|Notes\\Notes.csproj|solutionrelative:notes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87ECED-10AE-4533-9EF8-44DF3222B587}|Notes\\Notes.csproj|c:\\users\\donal\\source\\repos\\notes\\notes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA87ECED-10AE-4533-9EF8-44DF3222B587}|Notes\\Notes.csproj|solutionrelative:notes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\donal\\source\\repos\\Notes\\Notes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Notes\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\donal\\source\\repos\\Notes\\Notes\\MainWindow.xaml",
+              "RelativeToolTip": "Notes\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T16:49:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\donal\\source\\repos\\Notes\\Notes\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\donal\\source\\repos\\Notes\\Notes\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Notes\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAADwvwoBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:49:19.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
